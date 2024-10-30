@@ -2,6 +2,8 @@
 
 > A modern, practical guide to Git version control system - from basics to advanced concepts.
 
+💡 **Pro Tip**: Star this repository to keep it handy for future reference!
+
 ## 📚 Table of Contents
 
 1. [Introduction](#introduction)
@@ -295,7 +297,3 @@ git cherry-pick <commit> # Apply specific commit to current branch
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-💡 **Pro Tip**: Star this repository to keep it handy for future reference!
