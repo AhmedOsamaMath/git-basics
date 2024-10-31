@@ -1,3 +1,5 @@
+![Git Basics](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Git%20Basics&section=header&desc=A%20comprehensive,%20well-structured%20Git%20guide%20for%20beginners&descAlignY=55&fontAlignY=35&descAlign=50&descSize=20&animation=fadeIn&fontSize=50 "Git Basics")
+
 # Git Essentials: A Comprehensive Guide
 
 > A modern, practical guide to Git version control system - from basics to advanced concepts.
@@ -16,7 +18,7 @@
 8. [Best Practices](#best-practices)
 9. [Tools & Resources](#tools--resources)
 
-## Introduction
+## 🚀 Introduction
 
 Git is a distributed version control system created by Linus Torvalds in 2005. It enables developers to track changes in source code, collaborate on projects, and maintain a complete history of their work. Its distributed nature ensures that every developer has a full copy of the project history, providing both reliability and flexibility in workflows.
 
@@ -294,6 +296,6 @@ git cherry-pick <commit> # Apply specific commit to current branch
 - [GitHub Guides](https://guides.github.com/)
 - [Visual Git Guide](https://marklodato.github.io/visual-git-guide/index-en.html)
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
